@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1039940542872",
+    "firebase_url": "https://social-write-back.firebaseio.com",
+    "project_id": "social-write-back",
+    "storage_bucket": "social-write-back.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039940542872:android:d47882d3b889f222aacbed",
+        "android_client_info": {
+          "package_name": "com.caio.socialwrite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039940542872-aiuuso90gl0nrgt5a1dvu9bpqp80ku86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.caio.socialwrite",
+            "certificate_hash": "219d15ff16e135fc5eae13fa6db2a035f0862609"
+          }
+        },
+        {
+          "client_id": "1039940542872-738d3u621a0hj036infuksdfakmgku7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUFjb54DPG5Eci1Oj4axPpHI98vnekl_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039940542872-738d3u621a0hj036infuksdfakmgku7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
